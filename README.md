@@ -1,3 +1,5 @@
+![header](./img/neosendai.png)
+
 <h1 align="center">Hi 👋, I'm sundo</h1>
 <h3 align="center">NIT Sendai College student from Sendai</h3>
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **sundongxiaoshan202@gmail.com**
 
-- ⚡ Fun fact **I belong to Neovim army**
+- ⚡ Fun fact **I belong to the Neovim army**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
