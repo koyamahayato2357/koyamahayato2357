@@ -1,6 +1,6 @@
 ![header](./img/neosendai.png)
 
-<h1 align="center">Hi 👋, I'm sundo</h1>
+<h1 align="center">Hi 👋, I'm koyamahayato2357</h1>
 <h3 align="center">NIT Sendai College student from Sendai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koyamahayato2357&label=Profile%20views&color=0e75b6&style=flat" alt="koyamahayato2357" /> </p>
