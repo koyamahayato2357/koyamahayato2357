@@ -1,5 +1,3 @@
-![header](./img/neosendai.png)
-
 <h1 align="center">Hi 👋, I'm koyamahayato2357</h1>
 <h3 align="center">NIT Sendai College student from Sendai</h3>
 
